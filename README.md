@@ -1,6 +1,9 @@
 # PowerBI - Analysis
 -- -----------------------------------------------------------------------------
 
+![Uploading image.png…]()
+
+
 --  Proven expertise in data preparation, transformation, automation, data modelling, analysis, reporting, and visualization across Healthcare - Telemedicine and E-Commerce domains.
 
 --  Skilled in designing complex database models and developing analytical for reporting and strategic insights.
